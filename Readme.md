@@ -1,0 +1,1 @@
+This repo include a js file which count vowels in a text and show sum of vowels and also tell us the each vowel sum
